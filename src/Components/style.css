@@ -1,0 +1,18 @@
+.link{
+    color: rgb(253, 249, 249);
+ text-decoration: none;
+}
+
+.about{
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+    color: #fbf7f7;
+}
+.hero1{
+color: aliceblue;
+font-family:'Times New Roman', Times, serif ;
+font-size: medium;
+}
+.service{
+    background-color: rgba(179, 212, 213, 0.941);
+}
