@@ -1,0 +1,40 @@
+.link{
+    color: rgb(253, 249, 249);
+ text-decoration: none;
+}
+
+.about{
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+    color: #fbf7f7;
+}
+.hero1{
+color: aliceblue;
+font-family:'Times New Roman', Times, serif ;
+font-size: medium;
+}
+.service{
+    background-color: rgba(179, 212, 213, 0.941);
+}
+.why{
+    color: rgb(38, 7, 7);
+    font-family: 'Times New Roman', Times, serif;
+}
+.why1{
+    align-content: flex-end;
+}
+/* Custom Scrollbar Hide */
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .about2{
+    color: rgb(67, 129, 132);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .abouts{
+    font-family: 'Times New Roman', Times, serif;
+  }
